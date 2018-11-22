@@ -32,13 +32,13 @@ For the final assessment project of Udacity's React Fundamentals course,  I made
 Remember that good React design practice is to create new JS files for each component and use import/require statements to include them where they are needed.
 
 ## How to run the project in Development Mode
-The project uses [Node.js >= 6.x](https://nodejs.org/en/) and the [Create-React-App starter code](https://github.com/facebookincubator/create-react-app).
+The project uses [Node.js >= 6.x](https://nodejs.org/en/) and the [Create-React-App starter code].
 
 After Node is installed in your system, follow the below steps.
 
 1. Navigate to the directory where you want to store the app.
 2. Clone the repo `git clone https://github.com/josaphinejoe/bookt-rackingapp.git`
 3. Now install all modules listed as dependencies in `package.json` by running the command `npm install`
-4. Launch the app with this command `npm start`
+4. do the command`npm start`
 
-A new browser window open automatically displaying the app.  If it doesn't, navigate to [http://localhost:3000/](http://localhost:3000/) in your browser
+Navigate to [http://localhost:3000/](http://localhost:3000/).
